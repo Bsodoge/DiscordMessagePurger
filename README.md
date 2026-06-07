@@ -5,6 +5,8 @@ DiscordMessagePurger is a simple winforms application that allows you to delete 
 There is no limit on how many messages you can delete. 
 
 ### How to use?
+- Install the app via releases.
+- Unzip and launch the exe.
 - Find your authorization code and enter it.
 - Wait for the program to fetch all servers and DMs.
 - Select the server or DM.
